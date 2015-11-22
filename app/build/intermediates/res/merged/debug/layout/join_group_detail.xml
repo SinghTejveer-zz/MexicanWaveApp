@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    >
+    <ListView
+        android:id="@+id/ls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/textview"></ListView>
+
+
+
+
+
+    <TextView android:text="\@2015_Maxican_Wave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview"
+        android:textSize="15dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:textColor="#fff"
+        android:background="@color/colorPrimary"
+        android:padding="5dp"
+
+        />
+</RelativeLayout><!-- From: file:/F:/updated%20code%20maxican%20wave/MaxicanWava/app/src/main/res/layout/join_group_detail.xml -->

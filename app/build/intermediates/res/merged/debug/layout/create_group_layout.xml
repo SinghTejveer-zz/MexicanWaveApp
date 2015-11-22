@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <TextView android:text="CREATE GROUP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvCreateGroup"
+        android:textSize="22sp"
+        android:layout_alignParentTop="true"
+        android:gravity="center_horizontal"
+        android:textColor="#fff"
+        android:background="@color/colorPrimary"
+        android:padding="10dp"
+
+        />
+
+
+    <EditText android:id="@+id/edtCreateGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter group name"
+        android:inputType="text" android:maxLines="1"
+        android:singleLine="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColorHint="#0000ff"
+        android:textColor="#0000ff"
+        android:padding="15dp"
+        android:layout_centerInParent="true"
+        android:textSize="16sp"/>
+
+    <Button android:id="@+id/btnCreateGroup"
+        style="?android:textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="CREATE"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:background="#136d79"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/edtCreateGroup"
+        android:textSize="16sp"/>
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout><!-- From: file:/F:/updated%20code%20maxican%20wave/MaxicanWava/app/src/main/res/layout/create_group_layout.xml -->
