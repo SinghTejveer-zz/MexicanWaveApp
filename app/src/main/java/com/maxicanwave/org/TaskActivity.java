@@ -14,7 +14,7 @@ import com.maxicanwave.modal.Response;
 import com.maxicanwave.util.URLMaxicanWave;
 
 /**
- * Created by Ashish Srivastava on 11/19/2015.
+ * Created by Tejveer on 11/19/2015.
  */
 public class TaskActivity extends Activity implements ResponseHandler {
 

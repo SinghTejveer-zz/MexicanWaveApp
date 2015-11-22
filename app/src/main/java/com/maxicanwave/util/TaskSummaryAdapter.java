@@ -25,7 +25,7 @@ import com.maxicanwave.util.URLMaxicanWave;
 import java.util.ArrayList;
 
 /**
- * Created by Ashish Srivastava on 11/13/2015.
+ * Created by Tejveer on 11/13/2015.
  */
 public class TaskSummaryAdapter extends ArrayAdapter<String>  implements ResponseHandler {
     GroupMember grpm = new GroupMember();

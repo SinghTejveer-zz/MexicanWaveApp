@@ -1,7 +1,7 @@
 package com.maxicanwave.modal;
 
 /**
- * Created by Ashish Srivastava on 11/13/2015.
+ * Created by Tejveer on 11/13/2015.
  */
 public class TaskSummary {private int id;
     private int g_id;

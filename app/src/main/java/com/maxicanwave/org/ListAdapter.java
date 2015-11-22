@@ -23,7 +23,7 @@ import com.maxicanwave.util.URLMaxicanWave;
 import java.util.ArrayList;
 
 /**
- * Created by Dubey on 10/20/2015.
+ * Created by Tejveer on 10/20/2015.
  */
 public class ListAdapter extends ArrayAdapter<String> implements ResponseHandler{
     private ArrayList<String> list;

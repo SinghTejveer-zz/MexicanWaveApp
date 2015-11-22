@@ -1,7 +1,7 @@
 package com.maxicanwave.util;
 
 /**
- * Created by Ashish Srivastava on 10/31/2015.
+ * Created by Tejveer on 10/31/2015.
  */
 public class URLMaxicanWave {
     private static String HTTP= "http://";

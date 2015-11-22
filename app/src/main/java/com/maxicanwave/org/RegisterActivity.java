@@ -30,7 +30,7 @@ import org.json.JSONObject;
 import java.io.InputStream;
 
 /**
- * Created by Dubey on 10/30/2015.
+ * Created by Tejveer on 10/30/2015.
  */
 public class RegisterActivity extends Activity implements ResponseHandler{
     Button btnRegistration;
